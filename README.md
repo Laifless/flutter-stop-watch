@@ -23,5 +23,5 @@ Descrizione del progetto: una versione di un cronometro molto basilare fatta con
 
   - Seconds Stream (StreamTransformer): Ascolta il Tick Stream e trasforma i dati, emettendo un evento solo ogni 100 tick (1 secondo).
 
-#Nota dall'autore#
+# Nota dall'autore #
 Essendo un progetto che può essere poco personalizzabile non ho fatto granché di personalizzazione, anche se penso di aggiungere a breve una sorta di cronologia per tenere traccia magari di eventuali "checkpoint" che si fanno durante un allenamento.
